@@ -1,7 +1,7 @@
 Deployment of AI model directly from GITHUB using Streamlit webapp:
 
 
-The following files are present in GitHub (https://github.com/NimishaKR887/streamlit.git)
+The following files are present in GitHub (https://github.com/jobinvargheset/GITHUB_TO_STREAMLIT_DEPLOYMENT-POST-COVID-19-PSYCHOLOGICAL-ISSUES-.git)
  
 
         1.Covid_19_effects.ipynb - interactive python note book
